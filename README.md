@@ -16,12 +16,18 @@ Deepdark 拥有 PC 服和 PE 服，但因客户端限制，不对 IOS 提供技�
 这是一个基于 Minecraft PC 1.12.2 的工业生存服务器。当前版本1.1。
 ### 客户端
     
-1. 下载 jre-8u191-windows-x64.exe ，一路 NEXT 安装 JAVA 环境。
+1. 下载 jre-8u201-windows-x64.exe ，一路 NEXT 安装 JAVA 环境。
 2. 下载 Minecraft1.12.2-依赖文件.zip，Minecraft-Deepdark-1.1.0.zip
 3. 解压安装依赖文件。安装方法见压缩包。
 4. 解压 Minecraft-Deepdark-1.1.0.zip，运行 HMCL-2.7.9.54.exe 。
 5. 版本 1.12.2 改为 1.12.2-forge1.12.2-14.23.5.2768，名字 填写自己的游戏昵称，建议简短，英文/数字。启动游戏。
 6. 多人游戏 - Deepdark Server。
+    
+### 游戏
+    
+1. 进入游戏 使用 /reg 密码 密码 指令注册账号。以后使用 /log 密码 登录。
+2. 工业生存服务器有很多科技向的mod，可以查阅 [MC百科](https://www.mcmod.cn/) 进行学习。
+3. 尊重他人劳动成果:)
     
 ## PE Server
 ### 简介
