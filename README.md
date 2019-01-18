@@ -2,7 +2,9 @@
 > 117503445
     
 QQ Group : 706839114
+    
 所有相关文件均可以从 [百度云](https://pan.baidu.com/s/1wxHs4_82EE-GoWCbGBxEmg) 或 QQ群文件 下载
+    
 Deepdark 拥有 PC 服和 PE 服，但因客户端限制，不对 IOS 提供技术支持。
 ## 进行游戏前
 1. 加入服务器QQ群
